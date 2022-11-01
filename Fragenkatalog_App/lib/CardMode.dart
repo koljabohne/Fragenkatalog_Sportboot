@@ -16,7 +16,7 @@ class CardMode extends StatefulWidget {
 class _CardModeState extends State<CardMode> {
   Katalog katalog;
   _CardModeState(this.katalog);
-
+  String host = "https://.../fragenkatalog/app/pics/TPgHtDRwlac8yuYQjSwq7NB7v+v+/";
   Timer? timer;
   double fontSizeAntwort = 14;
   double fontSizeFrage = 16;
@@ -175,8 +175,7 @@ class _CardModeState extends State<CardMode> {
                       ),
                       katalog.frageElement[position].image == null || katalog.frageElement[position].image == ""
                           ? Container()
-                          : Image.network("https://ctnetze.de/fragenkatalog/app/pics/TPgHtDRwlac8yuYQjSwq7NB7v+v+/" + katalog.frageElement[position].image!, width: 100, height: 100,
-                              errorBuilder: (BuildContext context, Object exception, StackTrace? stackTrace) {
+                          : Image.network(host + katalog.frageElement[position].image!, width: 100, height: 100, errorBuilder: (BuildContext context, Object exception, StackTrace? stackTrace) {
                               return Container(padding: const EdgeInsets.fromLTRB(0, 0, 0, 10), child: const Text("Bild kann nicht geladen werden. Nummer und Frage notieren bzw Screenshot!"));
                             }),
                       PreferredSize(
