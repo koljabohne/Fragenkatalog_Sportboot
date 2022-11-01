@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "c4dfddf03511dd2ad3594563f40db9ba58ab950ec70a68e67e005e4bf7b0b81f"
+build_start_time: [1652982792, 359061956]
+build_end_time: [1652982796, 619241952]
+inputs:
+  "/Users/koljabohne/Projekte/fragenkatalog/fragenkatalog/macos/Flutter/GeneratedPluginRegistrant.swift": [1652982775, 548208713]
+  "/Users/koljabohne/Projekte/fragenkatalog/fragenkatalog/macos/Runner/AppDelegate.swift": [1646274732, 0]
+  "/Users/koljabohne/Projekte/fragenkatalog/fragenkatalog/macos/Runner/MainFlutterWindow.swift": [1646274732, 0]
