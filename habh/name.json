@@ -1,0 +1,435 @@
+[
+
+{ "id" : "", "Frage" : "73. Für welche Sportboote ist der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen vorgeschrieben?"},
+
+{ "id" : "", "Frage" : "74. Auf welchen Gewässern gilt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen?"},
+
+{ "id" : "", "Frage" : "75. Aus welchen Gründen muss der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen entzogen werden?"},
+
+{ "id" : "", "Frage" : "76. Was beinhaltet die allgemeine Sorgfaltspflicht?"},
+
+{ "id" : "", "Frage" : "77. Unter welchen Umständen darf von den geltenden Bestimmungen über das Verhalten im Verkehr auf den Binnenschifffahrtsstraßen abgewichen werden?"},
+
+{ "id" : "", "Frage" : "78. Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines Sportbootes auf Binnenschifffahrtsstraßen, mit Ausnahme des Rheins, erfüllen, wenn die größte Nutzleistung der Antriebsmaschine 11,03 kW oder wenger beträgt?"},
+
+{ "id" : "", "Frage" : "79. Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines Sportbootes auf dem Rhein erfüllen, wenn die Nutzleistung der Antriebsmaschine mehr als 3,68 kW beträgt?"},
+
+{ "id" : "", "Frage" : "80. Welche Anforderungen werden an die Person gestellt, mit der der Schifffsführer das Ruder eines Sportbootes mit Antriebsmaschine auf Binnenschiffffahrtstraßen besetzen will?"},
+
+{ "id" : "", "Frage" : "81. Wo erhält man Auskünfte über Verkehrsbeschränkungen und aktuelle Informationen über Binnenschifffahrtsstraßen?"},
+
+{ "id" : "", "Frage" : "82. Wozu muss der Rudergänger eines Sportbootes zur sicheren Steuerung in der Lage sein?"},
+
+
+{ "id" : "", "Frage" : "83. Bis zu welcher Schiffslänge berechtigt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen mit Ausnahme des Rheins zum Führen eines Sportbootes auf Binnenschifffahrtsstraßen?"},
+
+{ "id" : "", "Frage" : "84. Wo findet man die allgemeinen Verkehrsregeln für die Binnenschifffahrtsstraßen und den Rhein?"},
+
+{ "id" : "", "Frage" : "85. Wo findet man die allgemeinen Verkehrsregeln für die Mosel und die Donau?"},
+
+{ "id" : "", "Frage" : "86. Wo findet man Regeln für den Verkehr von Wassermotorrädern und für das Wasserskilaufen?"},
+
+{ "id" : "", "Frage" : "87. Welche Maßnahmen sind zu treffen, wenn das Fahrzeug innerhalb des Fahrwassers bzw. der Fahrrinne Grundberührung hat?"},
+
+{ "id" : "", "Frage" : "88. Was versteht man unter \"Fahrwasser\"?"},
+
+{ "id" : "", "Frage" : "89. Was versteht man unter \"Fahrrinne\"?"},
+
+{ "id" : "", "Frage" : "90. Wie wird die Schifffahrt vom Erreichen bestimmter Wasserstände und Hochwassermarken informiert?"},
+
+{ "id" : "", "Frage" : "91. Wo kann der Sportbootfahrer vor Ort das Erreichen bestimmter Wasserstände und Hochwassermarken feststellen?"},
+
+{ "id" : "", "Frage" : "92. Welche Auswirkungen kann das Erreichen der Hochwassermarke I für die Sportschifffahrt haben?"},
+
+{ "id" : "", "Frage" : "93. Welche Auswirkungen hat das Erreichen der Hochwassermarke II für die Sportschifffahrt?"},
+
+{ "id" : "", "Frage" : "94. In welche Richtung werden bei Flüssen die Uferseiten als rechtes bzw. linkes Ufer bezeichnet?"},
+
+{ "id" : "", "Frage" : "95. Was bedeutet \"zu Berg\" oder \"Bergfahrt\" auf Flüssen?"},
+
+{ "id" : "", "Frage" : "96. Was bedeutet \"zu Berg\" oder \"Bergfahrt\" auf Kanälen?"},
+
+{ "id" : "", "Frage" : "97. Welche Zeichen begrenzen die Fahrrinne zum rechten Ufer?"},
+
+
+{ "id" : "", "Frage" : "98. Welche Zeichen begrenzen die Fahrrinne zum linken Ufer?"},
+
+
+{ "id" : "", "Frage" : "99. Welche Fahrrinnenseite hat ein Bergfahrer an seiner Steuerbordseite und wie ist diese gekennzeichnet?"},
+
+{ "id" : "", "Frage" : "100. Was bedeutet eine rot-grün gestreifte Tonne oder Schwimmstange und was ist zu beachten?"},
+
+{ "id" : "", "Frage" : "101. Mit welchen Zeichen werden Hindernisse wie zum Beispiel Buhnen und Kribben an der rechten Seite der Wasserstraße bezeichnet?"},
+
+{ "id" : "", "Frage" : "102. Was kennzeichnet eine grün-weiß gestreifte Schwimmstange mit grünem Kegel, Spitze nach oben, oder eine grüne Tonne mit grün-weiß gestreiftem Aufsatz mit grünem Kegel, Spitze nach oben?"},
+
+{ "id" : "", "Frage" : "103. Was ist in Kanälen verboten?"},
+
+{ "id" : "", "Frage" : "104. Was bedeuten auf einem stillliegenden Fahrzeug zwei weiße Lichter übereinander?"},
+
+{ "id" : "", "Frage" : "105. Welches Licht setzt ein stillliegendes Fahrzeug?"},
+
+{ "id" : "", "Frage" : "106. Wie sind Anker am Tage bezeichnet, die die Schifffahrt behindern können?"},
+
+{ "id" : "", "Frage" : "107. Was bedeutet dieses Tafelzeichen?"},
+
+
+{ "id" : "", "Frage" : "108. Was bedeuten diese Tafelzeichen?"},
+
+
+{ "id" : "", "Frage" : "109. Wo besteht ohne besondere Bezeichnung der Stellen bzw. Strecken ein allgemeines Liegeverbot?"},
+
+{ "id" : "", "Frage" : "110. Welche Bedeutung hat das nachstehende Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "111. Welche Bedeutung haben die nachstehenden Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "112. Was bedeuten diese Tafelzeichen an Brücken?"},
+
+{ "id" : "", "Frage" : "113. Was bedeuten diese Tafelzeichen an Brücken?"},
+
+{ "id" : "", "Frage" : "114. Was bedeutet dieses Tafelzeichen an Brücken?"},
+
+{ "id" : "", "Frage" : "115. Was bedeuten diese Tafelzeichen an Brücken?"},
+
+{ "id" : "", "Frage" : "116. Was bedeutet dieses Tafelzeichen im Bereich eines Wehres?"},
+
+{ "id" : "", "Frage" : "117. Welche Bedeutung haben vor einer Schleuse ein rotes oder ein rotes und ein grünes Licht?"},
+
+{ "id" : "", "Frage" : "118. In welcher Reihenfolge fahren Fahrzeuge, die nicht Kleinfahrzeuge sind, und Kleinfahrzeuge, die gemeinsam geschleust werden sollen, in die Schleuse ein?"},
+
+{ "id" : "", "Frage" : "119. Mehrere Kleinfahrzeuge sollen gemeinsam vom Oberwasser in das Unterwasser geschleust werden. Worauf ist bei deren Einfahrt in die Schleuse und während des Schleusens besonders zu achten?"},
+
+{ "id" : "", "Frage" : "120. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "121. Was bedeutet dieses Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "122. Was bedeutet dieses Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "123. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "124. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "125. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "126. Was bedeutet auf einem Fahrzeug ein blaues Licht?"},
+
+{ "id" : "", "Frage" : "127. Was bedeutet dieses Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "128. Was bedeuten auf einem Fahrzeug zwei blaue Lichter übereinander?"},
+
+{ "id" : "", "Frage" : "129. Was bedeutet dieses Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "130. Was bedeuten auf einem Fahrzeug drei blaue Lichter übereinander?"},
+
+{ "id" : "", "Frage" : "131. Was bedeutet dieses Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "132. Welches Fahrzeug führt die nachstehende Tagbezeichnung?"},
+
+{ "id" : "", "Frage" : "133. Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp. Wie wird zweckmäßigerweise die weiße Handlampe, die bei Annäherung anderer Fahrzeuge gezeigt werden muss, benutzt?"},
+
+{ "id" : "", "Frage" : "134. Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp. Welche zusätzlichen Lichter müssen gesetzt werden, wenn der Motor angeworfen wird?"},
+
+
+{ "id" : "", "Frage" : "135. Welche Lichter muss ein Kleinfahrzeug unter Motor führen, wenn es ein anderes Kleinfahrzeug ohne Maschinenantrieb schleppt?"},
+
+
+{ "id" : "", "Frage" : "136. Welche Lichter muss ein geschlepptes Kleinfahrzeug führen?"},
+
+{ "id" : "", "Frage" : "137. Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen nicht mehr als Kleinfahrzeug?"},
+
+
+{ "id" : "", "Frage" : "138. Welchen Sichtwinkel und welche Farben haben die vorgeschriebenen Lichter an Bord?"},
+
+
+{ "id" : "", "Frage" : "139. Welches Licht muss ein Kleinfahrzeug ohne Maschinenantrieb mindestens führen?"},
+
+
+{ "id" : "", "Frage" : "140. Wie muss sich ein Segelfahrzeug auf einer Binnenschifffahrtsstraße, welches sich auf Kollisionskurs mit einem Kleinfahrzeug mit Maschinenantrieb befindet, verhalten?"},
+
+
+{ "id" : "", "Frage" : "141. Wie muss sich ein Fahrzeug mit Topplicht und Seitenlichtern gegenüber einem Kleinfahrzeug mit Seitenlichtern, welches sich auf Kollisionskurs befindet, verhalten?"},
+
+
+{ "id" : "", "Frage" : "142. Wie muss sich ein Kleinfahrzeug mit Maschinenantrieb gegenüber einem Segelsurfer, der auf Kollisionskurs liegt, verhalten?"},
+
+
+{ "id" : "", "Frage" : "143. Wer ist ausweichpflichtig, wenn ein Segler mit Wind von Backbord einer Segelyacht mit Wind von Steuerbord und einem schwarzen Kegel auf Kollisionskurs begegnet?"},
+
+
+{ "id" : "", "Frage" : "144. Wie lautet eine der drei Grundregeln der Binnenschifffahrtsstraßen-Ordnung, nach denen Kleinfahrzeuge unter Segel einander ausweichen?"},
+
+
+{ "id" : "", "Frage" : "145. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "146. Was bedeuten diese Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "147. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "148. Was bedeuten diese Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "149. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "150. Was bedeuten diese Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "151. Was bedeuten im Fahrwasser nachstehende Zeichen?"},
+
+{ "id" : "", "Frage" : "152. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "153. Was bedeuten diese Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "154. Was bedeuten diese Sichtzeichen?"},
+
+{ "id" : "", "Frage" : "155. Was bedeutet diese Tag- und Nachtbezeichnung?"},
+
+{ "id" : "", "Frage" : "156. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "157. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "158. Wie ist eine geschützte Badezone gekennzeichnet?"},
+
+
+{ "id" : "", "Frage" : "159. Was bedeutet ein langer Ton?"},
+
+
+{ "id" : "", "Frage" : "160. Was bedeuten vier kurze Töne?"},
+
+
+{ "id" : "", "Frage" : "161. Was bedeuten fünf kurze Töne?"},
+
+
+{ "id" : "", "Frage" : "162. Was bedeutet dieses Schallsignal?"},
+
+
+{ "id" : "", "Frage" : "163. Was bedeutet dieses Schallsignal?"},
+
+{ "id" : "", "Frage" : "164. Was bedeutet dieses Schallsignal?"},
+
+{ "id" : "", "Frage" : "165. Was bedeutet dieses Schallsignal?"},
+
+{ "id" : "", "Frage" : "166. Was bedeutet dieses Schallsignal?"},
+
+{ "id" : "", "Frage" : "167. Was bedeutet dieses Schallsignal?"},
+
+{ "id" : "", "Frage" : "168. Was ist eine Folge sehr kurzer Töne?"},
+
+
+{ "id" : "", "Frage" : "169. Was bedeutet eine Folge sehr kurzer Töne?"},
+
+
+{ "id" : "", "Frage" : "170. Welche Schallsignale bzw. Zeichen sind zu geben, wenn das Boot manövrierunfähig geworden ist?"},
+
+{ "id" : "", "Frage" : "171. Ein Fahrzeug zeigt an der Steuerbordseite seines Ruderhauses eine blaue Tafel mit weißem Funkellicht. Welche Bedeutung hat dieses Zeichen?"},
+
+{ "id" : "", "Frage" : "172. Ein Sportfahrzeug fährt hinter einem Fahrzeug, das nicht Kleinfahrzeug ist, in den Schleusenvorhafen ein. Aus der Schleusenkammer kommt ein Fahrzeug, das an Steuerbord eine blaue Tafel mit einem weißen Funkellicht zeigt. Was bedeutet dieses Zeichen?"},
+
+
+{ "id" : "", "Frage" : "173. Wo kann man von bestehenden Höchstgeschwindigkeiten auf den Binnenschifffahrtsstraßen Kenntnis erhalten?"},
+
+
+{ "id" : "", "Frage" : "174. Wie ist ein Überholmanöver durchzuführen?"},
+
+
+{ "id" : "", "Frage" : "175. Wann besteht die Gefahr eines Zusammenstoßes?"},
+
+{ "id" : "", "Frage" : "176. Wie müssen Ausweichmanöver durchgeführt werden?"},
+
+
+{ "id" : "", "Frage" : "177. Ein Kleinfahrzeug und ein Fahrzeug über 20 m Länge nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?"},
+
+
+{ "id" : "", "Frage" : "178. Welche Fahrzeuge in Fahrt führen nachts nur ein weißes Rundumlicht?"},
+
+
+{ "id" : "", "Frage" : "179. Wie muss sich ein kreuzendes Kleinfahrzeug unter Segel am Wind in der Nähe eines Ufers gegenüber einem anderen Kleinfahrzeug verhalten?"},
+
+{ "id" : "", "Frage" : "180. Wer ist ausweichpflichtig bzw. wer ist nicht ausweichpflichtig?"},
+
+
+
+{ "id" : "", "Frage" : "181. Was hat der Schiffsführer eines Kleinfahrzeugs beim Begegnen mit Fahrzeugen, die nicht Kleinfahrzeuge sind, zu beachten?"},
+
+
+{ "id" : "", "Frage" : "182. Von Backbord kommend kreuzt ein Fahrzeug unter Segel mit einem schwarzen Kegel, Spitze nach unten, den Kurs eines Fahrzeuges mit Maschinenantrieb. Wer ist ausweichpflichtig?"},
+
+
+{ "id" : "", "Frage" : "183. Zwei Kleinfahrzeuge unter Segel A und B liegen auf Kollisionskurs; A führt einen schwarzen Kegel. Wer ist ausweichpflichtig?"},
+
+{ "id" : "", "Frage" : "184. Ein Fahrzeug unter Segel kreuzt eine Binnenschifffahrtsstraße. In der Fahrwassermitte kommt ihm ein Kleinfahrzeug mit Maschinenantrieb zu Berg entgegen. Wer ist ausweichpflichtig?"},
+
+
+{ "id" : "", "Frage" : "185. Zwei Kleinfahrzeuge A und B unter Segel liegen auf Kollisionskurs (Skizze). Wer ist ausweichpflichtig?"},
+
+{ "id" : "", "Frage" : "186. Zwei Kleinfahrzeuge unter Segel liegen auf Kollisionskurs. Wer ist ausweichpflichtig?"},
+
+{ "id" : "", "Frage" : "187. Ein Kleinfahrzeug A segelt nachts auf Vorwindkurs stromab, Großsegel an Steuerbord. Backbord querab kommt ein grünes Seitenlicht eines Bootes B immer näher, das kein Topplicht führt. Wer ist ausweichpflichtig?"},
+
+
+{ "id" : "", "Frage" : "188. Der seitliche Abstand zwischen den Booten A, B und C verringert sich ständig. Welches Boot kann seinen Kurs beibehalten?"},
+
+{ "id" : "", "Frage" : "189. Wer ist wem gegenüber kurshaltepflichtig?"},
+
+{ "id" : "", "Frage" : "190. Was ist vorrangig zu beachten, wenn eine Jolle gekentert ist und sie nicht wieder aufgerichtet werden kann?"},
+
+{ "id" : "", "Frage" : "191. Ein Segelboot gerät in das Feld einer Segelregatta, ohne selbst Teilnehmer zu sein. Welche Ausweichregeln sind zu beachten?"},
+
+
+{ "id" : "", "Frage" : "192. Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Was bedeuten diese Lichter?"},
+
+{ "id" : "", "Frage" : "193. Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Wer ist ausweichpflichtig?"},
+
+{ "id" : "", "Frage" : "194. Ein Kleinfahrzeug unter Segel und mit Maschinenantrieb kreuzt nachts stromauf. Ein Fahrzeug kommt entgegen, das nur ein weißes Licht führt. Was bedeutet dieses Licht?"},
+
+
+{ "id" : "", "Frage" : "195. Ein Kleinfahrzeug unter Segel kreuzt nachts im Fahrwasser. Von achtern kommt ein Fahrzeug, das eine Zweifarbenlaterne und ein Topplicht führt. Was bedeuten diese Lichter?"},
+
+
+{ "id" : "", "Frage" : "196. Was bedeuten nachts auf einer Binnenschifffahrtsstraße die nachstehenden Lichter?"},
+
+{ "id" : "", "Frage" : "197. Wo ist die Geschwindigkeit zu vermindern, um Sog und Wellenschlag zu vermeiden?"},
+
+
+{ "id" : "", "Frage" : "198. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "199. Welche Bedeutung hat das nachstehende Tafelzeichen, wenn das rote Licht leuchtet?"},
+
+{ "id" : "", "Frage" : "200. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "201. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "202. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "203. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "204. Was bedeutet dieses Tafelzeichen?"},
+
+{ "id" : "", "Frage" : "205. Welche Sichtbeeinträchtigungen führen zu unsichtigem Wetter?"},
+
+
+{ "id" : "", "Frage" : "206. Wie muss ein Fahrzeug ausgerüstet sein, um bei unsichtigem Wetter zu fahren?"},
+
+
+{ "id" : "", "Frage" : "207. Was ist zu beachten, wenn während der Fahrt unsichtiges Wetter eintritt?"},
+
+
+{ "id" : "", "Frage" : "208. Welchen Vorteil bietet ein Radarreflektor auf einem Sportboot?"},
+
+
+{ "id" : "", "Frage" : "209. Welche technische Einrichtung gegen einen Stromschlag muss in der Landstromversorgung unbedingt installiert sein?"},
+
+{ "id" : "", "Frage" : "210. Welches Schallsignal ist zu geben, wenn in einer Notsituation Hilfe gebraucht wird?"},
+
+
+{ "id" : "", "Frage" : "211. Welche Bedeutung hat am Tag das Kreisen einer roten Flagge auf einem Wasserfahrzeug?"},
+
+
+{ "id" : "", "Frage" : "212. Welche Notsignale kann ein Segelsurfer auf Binnenschifffahrtsstraßen geben?"},
+
+{ "id" : "", "Frage" : "213. Was ist mit Abfällen jeglicher Art zu tun, die an Bord anfallen?"},
+
+
+{ "id" : "", "Frage" : "214. Wem darf der Schiffsführer das Ruder eines motorisierten Sportbootes überlassen?"},
+
+{ "id" : "", "Frage" : "215. Wie müssen Abfälle entsorgt werden?"},
+
+
+{ "id" : "", "Frage" : "216. Was ist beim Neuanstrich des Unterwasserschiffs und bei der Entfernung des alten Anstrichs zu beachten?"},
+
+{ "id" : "", "Frage" : "217. Was ist bei Sturmwarnung vom Schiffsführer eines Sportbootes unter Segel auf einem größeren Gewässer zu veranlassen?"},
+
+{ "id" : "", "Frage" : "218. Welche Fahrrinnenseite hat ein Talfahrer an seiner Backbordseite?"},
+
+
+{ "id" : "", "Frage" : "219. Mit welcher Wetterentwicklung ist bei schnellem und stetig fallendem Luftdruck zu rechnen?"},
+
+{ "id" : "", "Frage" : "220. Welches Wetter ist zu erwarten, wenn der Luftdruck langsam aber stetig steigt?"},
+
+
+{ "id" : "", "Frage" : "221. Wo darf auf Binnenschifffahrtsstraßen Wasserski gelaufen werden?"},
+
+{ "id" : "", "Frage" : "222. Zu welcher Tageszeit und bei welchen Sichtweiten darf auf den erlaubten Gewässerabschnitten Wasserski gelaufen werden?"},
+
+
+{ "id" : "", "Frage" : "223. Wie muss sich der Wasserskiläufer bei der Vorbeifahrt an Fahrzeugen, Schwimmkörpern oder Badenden verhalten?"},
+
+
+{ "id" : "", "Frage" : "224. Unter welchen Voraussetzungen darf außerhalb der ausgewiesenen Strecken/Wasserflächen Wassermotorrad gefahren werden?"},
+
+
+{ "id" : "", "Frage" : "225. Wie hat sich der Führer eines Wassermotorrades außerhalb der ausgewiesenen Strecken/Wasserflächen zu verhalten?"},
+
+
+{ "id" : "", "Frage" : "226. Auf welchen Gewässern ist die Fahrerlaubnis für Sportboote unter Segeln erforderlich?"},
+
+
+{ "id" : "", "Frage" : "227. Weshalb muss sich der Schiffsführer vor dem Befahren fremder Gewässer über die dort geltenden Vorschriften informieren?"},
+
+
+{ "id" : "", "Frage" : "228. Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes bis zu einer Länge von 25 m auf dem Rhein?"},
+
+{ "id" : "", "Frage" : "229. Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes mit einer Länge von 20 m bis 25 m auf den Binnenschifffahrtsstraßen außerhalb des Rheins?"},
+
+{ "id" : "", "Frage" : "230. Wo sind umfangreiche Hinweise auf die Binnenschifffahrtsstraßen und deren Grenzen zu finden?"},
+
+
+{ "id" : "", "Frage" : "231. Was ist bei der Ausübung des Wassersports auf Gewässern außerhalb der Bundeswasserstraßen (z. B. Landeswasserstraßen, kommunale und private Gewässer) zu beachten?"},
+
+
+{ "id" : "", "Frage" : "232. Welche Kennzeichnungsarten für Sportboote gibt es?"},
+
+{ "id" : "", "Frage" : "233. Welche Stelle ist für die Zuteilung eines amtlichen Kennzeichens für Sportboote zuständig?"},
+
+
+{ "id" : "", "Frage" : "234. Woraus bestehen die amtlich anerkannten Kennzeichen?"},
+
+
+{ "id" : "", "Frage" : "235. Welche Stellen sind für die Zuteilung eines amtlich anerkannten Kennzeichens für Sportboote zuständig?"},
+
+
+{ "id" : "", "Frage" : "236. Wann muss ein Wassersportfahrzeug in das Binnenschiffsregister eingetragen werden?"},
+
+
+{ "id" : "", "Frage" : "237. Wie hat sich ein Schiffsführer bei Hochwasser zu verhalten?"},
+
+
+{ "id" : "", "Frage" : "238. Wie hat sich ein Schiffsführer bei Erreichen der Hochwassermarke II zu verhalten?"},
+
+
+{ "id" : "", "Frage" : "239. Ein Fahrzeug fährt zu Tal. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?"},
+
+
+{ "id" : "", "Frage" : "240. Ein Fahrzeug fährt zu Berg. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?"},
+
+{ "id" : "", "Frage" : "241. Ein Fahrzeug fährt in der Fahrrinne gegen den Strom. Voraus liegt eine grüne Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?"},
+
+{ "id" : "", "Frage" : "242. Welche Funktion haben gelbe Tonnen mit einem Radarreflektor vor Brückenpfeilern?"},
+
+
+{ "id" : "", "Frage" : "243. Welche Bedeutung haben diese Tafeln an der nachstehenden gekennzeichneten Brücke?"},
+
+
+{ "id" : "", "Frage" : "244. Was bedeutet dieses Tafelzeichen an einer Brückendurchfahrt?"},
+
+{ "id" : "", "Frage" : "245. Warum ist es bei der Schleusendurchfahrt verboten, Autoreifen als Fender zu benutzen?"},
+
+
+{ "id" : "", "Frage" : "246. Welche Lichter führt ein Schubverband?"},
+
+
+{ "id" : "", "Frage" : "247. Welches Fahrzeug führt am Bug einen roten Wimpel?"},
+
+{ "id" : "", "Frage" : "248. Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen als Kleinfahrzeug?"},
+
+
+{ "id" : "", "Frage" : "249. Welche Bedeutung hat die Bezeichnung eines Fahrzeuges mit einer rot-weißen Flagge und was ist zu beachten?"},
+
+{ "id" : "", "Frage" : "250. Welches optische Zeichen kann am Tage anstelle von vier kurzen Tönen gegeben werden?"},
+
+
+{ "id" : "", "Frage" : "251. Welches optische Zeichen kann in der Nacht oder bei verminderter Sicht anstelle von vier kurzen Tönen gegeben werden?"},
+
+{ "id" : "", "Frage" : "252. Welcher Befähigungsnachweis ist zur Teilnahme am Binnenschifffahrtsfunk erforderlich?"},
+
+{ "id" : "", "Frage" : "253. Was bedeutet Radarfahrt?"}
+
+
+]
